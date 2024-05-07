@@ -1,0 +1,16 @@
+{
+    "name": "svg-logo-generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "Matthew Miskov",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "inquirer": "8.2.6"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
